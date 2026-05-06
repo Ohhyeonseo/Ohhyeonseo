@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
 ## stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ohhyeonseo&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ohhyeonseo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohhyeonseo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ohhyeonseo&layout=compact&theme=tokyonight)
