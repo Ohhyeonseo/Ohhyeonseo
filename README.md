@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=4762D1&background=F0F4FF&center=true&vCenter=true&width=600&height=120&lines=Hyeonseo's+GitHub" alt="header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=4762D1&background=F0F4FF&center=true&vCenter=true&width=800&height=120&lines=Hyeonseo%27s+GitHub" alt="header"/>
 </p>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=4762D1&background=1A1A2E&center=true&vCenter=true&width=600&height=120&lines=Hyeonseo's+GitHub" alt="header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=4762D1&background=1A1A2E&center=true&vCenter=true&width=800&height=120&lines=Hyeonseo%27s+GitHub" alt="header"/>
 </p>
 
 
